@@ -219,7 +219,7 @@ Netflix-PowerBI-Dashboard/
 
 ## 🔒 Data and Power BI file
 
-The raw dataset and the Power BI file (`.pbix`) are **not published** in this repository. If you would like the data, the Power BI file or project-related details, please contact me by **email** or **LinkedIn**. More information is in the [Project Files](Project%20Files/README.md) folder.
+The raw dataset and the Power BI file (`.pbix`) are **not published** in this repository. If you would like the data, the Power BI file or project-related details, please contact me by **email** or **LinkedIn**. More information is in the [Project Files](Netflix-PowerBI-Dashboard/Project%20Files/README.md) folder.
 
 ---
 
