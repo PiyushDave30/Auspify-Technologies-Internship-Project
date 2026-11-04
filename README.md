@@ -77,7 +77,7 @@ It ends with an **Executive Summary** of four recommendations backed by numbers.
 | 5 | Audience and Content Category Intelligence | Advanced | ⏭️ Skipped | n/a |
 | 6 | Executive Business Intelligence Dashboard | Advanced | ✅ Completed (bonus) | [Task-6](Task/Task-6/readme.md) |
 
-> Tasks 1, 2, 3 and 4 meet the required 4 of 6. Task 6 was completed as a bonus, and Task 5 was skipped. See the [task overview](Task/readme.md).
+> Tasks 1, 2, 3 and 4 meet the required 4 of 6. Task 6 was completed as a bonus, and Task 5 was skipped. See the [Task Overview](Tasks/readme.md).
 
 ---
 
