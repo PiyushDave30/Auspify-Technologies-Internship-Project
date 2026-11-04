@@ -123,10 +123,9 @@ Data cleaning with Power Query · Data modelling (star-schema approach with Date
 
 | | |
 |---|---|
-| 📸 [Dashboard screenshots](https://github.com/PiyushDave30/Auspify-Technologies-Internship-Project/blob/main/Netflix-PowerBI-Dashboard/Screenshots/readme.md) | All 10 screenshots |
-| 📋 [Task details](https://github.com/PiyushDave30/Auspify-Technologies-Internship-Project/blob/main/Netflix-PowerBI-Dashboard/Task/readme.md) | Task-wise workflow, measures and insights |
-| 🏠 [Project home](https://github.com/PiyushDave30/Auspify-Technologies-Internship-Project/blob/main/Netflix-PowerBI-Dashboard/readme.md) | Main project README |
----
+| 📸 [Dashboard screenshots](../Screenshots/readme.md) | All 10 screenshots |
+| 📋 [Task details](../Task/readme.md) | Task-wise workflow, measures and insights |
+| 🏠 [Project home](../readme.md) | Main project README |
 
 ## 👤 Author
 
