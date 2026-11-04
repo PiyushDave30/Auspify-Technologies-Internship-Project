@@ -20,7 +20,7 @@
   <a href="https://github.com/PiyushDave30"><img src="https://img.shields.io/badge/GitHub-PiyushDave30-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-![Home](Netflix-PowerBI-Dashboard/Screenshots/Home.png)
+![Home](Screenshots/Home.png)
 
 ---
 
@@ -88,35 +88,35 @@ The dashboard has 5 visible pages with a sidebar for navigation, plus 2 hidden p
 ### 🏠 Home
 A cover page with the project title, author details and four navigation buttons.
 
-![Home](Netflix-PowerBI-Dashboard/Screenshots/Home.png)
+![Home](Screenshots/Home.png)
 
 ### 📈 Overview *(Task 2)*
 KPI cards, Movies vs TV Shows donut, Top 10 Genres, Titles by Rating and Titles by Release Year, with a Filter Panel.
 
-![Overview](Netflix-PowerBI-Dashboard/Screenshots/Overview.png)
+![Overview](Screenshots/Overview.png)
 
 ### 🌍 Global Content Insights *(Task 3)*
 Map of content by country, Top 10 countries, Movies vs TV Shows mix by country, and key insights.
 
-![Global](Netflix-PowerBI-Dashboard/Screenshots/Global.png)
+![Global](Screenshots/Global.png)
 
 ### 📅 Content Growth and Trends *(Task 4)*
 Titles added per year with Year, Quarter, Month drill-down, Movies vs TV Shows added, weekday pattern and release-year trend.
 
-![Trends](Netflix-PowerBI-Dashboard/Screenshots/Trends.png)
+![Trends](Screenshots/Trends.png)
 
 ### ⭐ Executive Summary *(Task 6)*
 Four recommendations with supporting charts.
 
-![Executive Summary](Netflix-PowerBI-Dashboard/Screenshots/Executive_Summary.png)
+![Executive Summary](Screenshots/Executive_Summary.png)
 
 ### 🔎 Drill-through and Tooltip
 
 | Country Details (drill-through) | Tooltip on hover |
 |---|---|
-| ![Country Details](Netflix-PowerBI-Dashboard/Screenshots/Country_Details_Drillthrough.png) | ![Tooltip](Netflix-PowerBI-Dashboard/Screenshots/Tooltip_Country.png) |
+| ![Country Details](Screenshots/Country_Details_Drillthrough.png) | ![Tooltip](Screenshots/Tooltip_Country.png) |
 
-📸 All screenshots: [Screenshots folder](Netflix-PowerBI-Dashboard/Screenshots/readme.md)
+📸 All screenshots: [Screenshots folder](Screenshots/readme.md)
 
 ---
 
@@ -156,7 +156,7 @@ Four recommendations with supporting charts.
 
 A **star-schema approach** with a central data table, a dedicated Date Table, a Genre Table and separate measure tables.
 
-![Data Model](Netflix-PowerBI-Dashboard/Screenshots/Data_Model.png)
+![Data Model](Screenshots/Data_Model.png)
 
 | Table | Role |
 |---|---|
