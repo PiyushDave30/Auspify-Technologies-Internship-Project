@@ -70,14 +70,14 @@ It ends with an **Executive Summary** of four recommendations backed by numbers.
 
 | Task | Title | Level | Status | Details |
 |---|---|---|---|---|
-| 1 | Data Preparation and Power BI Setup | Easy | ✅ Completed | [Task-1](Task/Task-1/readme.md) |
-| 2 | Netflix Content Overview Dashboard | Easy | ✅ Completed | [Task-2](Task/Task-2/readme.md) |
-| 3 | Global Content Insights Dashboard | Medium | ✅ Completed | [Task-3](Task/Task-3/readme.md) |
-| 4 | Content Growth and Trend Analysis | Medium | ✅ Completed | [Task-4](Task/Task-4/readme.md) |
+| 1 | Data Preparation and Power BI Setup | Easy | ✅ Completed | [Task-1](Tasks/Task-1/readme.md) |
+| 2 | Netflix Content Overview Dashboard | Easy | ✅ Completed | [Task-2](Tasks/Task-2/readme.md) |
+| 3 | Global Content Insights Dashboard | Medium | ✅ Completed | [Task-3](Tasks/Task-3/readme.md) |
+| 4 | Content Growth and Trend Analysis | Medium | ✅ Completed | [Task-4](Tasks/Task-4/readme.md) |
 | 5 | Audience and Content Category Intelligence | Advanced | ⏭️ Skipped | n/a |
-| 6 | Executive Business Intelligence Dashboard | Advanced | ✅ Completed (bonus) | [Task-6](Task/Task-6/readme.md) |
+| 6 | Executive Business Intelligence Dashboard | Advanced | ✅ Completed (bonus) | [Task-6](Tasks/Task-6/readme.md) |
 
-> Tasks 1, 2, 3 and 4 meet the required 4 of 6. Task 6 was completed as a bonus, and Task 5 was skipped. See the [Task Overview](Netflix-PowerBI-Dashboard/Tasks/readme.md).
+> Tasks 1, 2, 3 and 4 meet the required 4 of 6. Task 6 was completed as a bonus, and Task 5 was skipped. See the [Task Overview](Tasks/readme.md).
 
 ---
 
