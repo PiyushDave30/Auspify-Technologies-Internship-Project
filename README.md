@@ -165,7 +165,7 @@ A **star-schema approach** with a central data table, a dedicated Date Table, a 
 | **Genre Table** | One row per title and genre (gives the real 42 genres) |
 | **Single Agg Measures Table** and **Measures Table** | Organized DAX measures |
 
-More details: [Task-1](Task/Task-1/readme.md)
+More details: [Task-1](Tasks/Task-1/readme.md)
 
 ---
 
@@ -219,7 +219,7 @@ Netflix-PowerBI-Dashboard/
 
 ## 🔒 Data and Power BI file
 
-The raw dataset and the Power BI file (`.pbix`) are **not published** in this repository. If you would like the data, the Power BI file or project-related details, please contact me by **email** or **LinkedIn**. More information is in the [Project Files](Netflix-PowerBI-Dashboard/Project%20Files/README.md) folder.
+The raw dataset and the Power BI file (`.pbix`) are **not published** in this repository. If you would like the data, the Power BI file or project-related details, please contact me by **email** or **LinkedIn**. More information is in the [Project Files](Netflix-PowerBI-Dashboard/Project%20Files/readme.md) folder.
 
 ---
 
