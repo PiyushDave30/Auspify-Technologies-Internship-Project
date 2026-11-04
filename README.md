@@ -77,7 +77,7 @@ It ends with an **Executive Summary** of four recommendations backed by numbers.
 | 5 | Audience and Content Category Intelligence | Advanced | ⏭️ Skipped | n/a |
 | 6 | Executive Business Intelligence Dashboard | Advanced | ✅ Completed (bonus) | [Task-6](Task/Task-6/readme.md) |
 
-> Tasks 1, 2, 3 and 4 meet the required 4 of 6. Task 6 was completed as a bonus, and Task 5 was skipped. See the [Task Overview](Tasks/readme.md).
+> Tasks 1, 2, 3 and 4 meet the required 4 of 6. Task 6 was completed as a bonus, and Task 5 was skipped. See the [Task Overview](Netflix-PowerBI-Dashboard/Tasks/readme.md).
 
 ---
 
@@ -165,7 +165,7 @@ A **star-schema approach** with a central data table, a dedicated Date Table, a 
 | **Genre Table** | One row per title and genre (gives the real 42 genres) |
 | **Single Agg Measures Table** and **Measures Table** | Organized DAX measures |
 
-More details: [Task-1](Tasks/Task-1/readme.md)
+More details: [Task-1](Netflix-PowerBI-Dashboard/Tasks/Task-1/readme.md)
 
 ---
 
