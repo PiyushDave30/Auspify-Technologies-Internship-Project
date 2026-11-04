@@ -1,4 +1,4 @@
-# Task 3: Global Content Insights Dashboard (Medium)
+# Task 3: Global Content Insights Dashboard
 
 **Goal:** Analyze Netflix content distribution across countries.
 
@@ -80,5 +80,9 @@ Avg Titles per Country = DIVIDE([Total Titles], [Total Countries])
 **Tooltip on hover**
 
 ![Tooltip Country](Tooltip_Country.png)
+
+**Tooltip Page**
+
+![Tooltip Page](Tooltip_Page.png)
 
 ⬅️ [Back to tasks](../readme.md)        `      
