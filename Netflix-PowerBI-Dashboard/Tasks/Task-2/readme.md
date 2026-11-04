@@ -1,4 +1,4 @@
-# Task 2: Netflix Content Overview Dashboard (Easy)
+# Task 2: Netflix Content Overview Dashboard        
 
 **Goal:** Create an interactive dashboard that shows Netflix content distribution and key metrics.
 
