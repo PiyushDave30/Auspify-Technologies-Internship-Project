@@ -124,7 +124,7 @@ Data cleaning with Power Query · Data modelling (star-schema approach with Date
 | | |
 |---|---|
 | 📸 [Dashboard screenshots](../Screenshots/readme.md) | All 10 screenshots |
-| 📋 [Task details](../Task/readme.md) | Task-wise workflow, measures and insights |
+| 📋 [Task details](../Tasks/readme.md) | Task-wise workflow, measures and insights |
 | 🏠 [Project home](../readme.md) | Main project README |
 
 ## 👤 Author
