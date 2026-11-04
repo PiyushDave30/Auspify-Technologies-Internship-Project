@@ -2,7 +2,7 @@
 <h3 align="center">Interactive multi-page Power BI dashboard</h3>
 
 <p align="center">
-  Analysing <b>8,502 Netflix titles</b> across <b>85 countries</b> and <b>42 genres</b> (2008 to 2021)<br/>
+  Analysing <b>8,502 Netflix titles</b> across <b>85 Countries</b> and <b>42 Genres</b> (2008 to 2021)<br/>
   <i>Auspify Technologies Power BI Internship Project</i>
 </p>
 
