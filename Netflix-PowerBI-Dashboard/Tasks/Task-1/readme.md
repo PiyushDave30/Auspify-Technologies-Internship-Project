@@ -1,4 +1,4 @@
-# Task 1: Data Preparation and Power BI Setup (Easy)
+# Task 1: Data Preparation and Power BI Setup
 
 **Goal:** Import, clean and transform the Netflix data so it is ready for reporting and visualization.
 
